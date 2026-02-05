@@ -51,7 +51,7 @@ top: 120px;
 </head>
 <body>
 <div class="card">
-<h1> yourname, will you be my Valentine? </h1>
+<h1> Nandita My love, will you be my Valentine? </h1>
 <button class="yes" onclick="yesClick()">Yes </button>
 <button class="no" id="noBtn">No </button>
 </div>
